@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedHttpConsole", "EmbeddedHttpConsole\EmbeddedHttpConsole.csproj", "{6330826F-FC23-40E3-B7D5-8C883B6027C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbeddedHttp", "EmbeddedHttp\EmbeddedHttp.csproj", "{FBC3656E-9DC9-4BC8-986C-7A0CBCA1ECBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6330826F-FC23-40E3-B7D5-8C883B6027C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6330826F-FC23-40E3-B7D5-8C883B6027C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6330826F-FC23-40E3-B7D5-8C883B6027C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6330826F-FC23-40E3-B7D5-8C883B6027C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC3656E-9DC9-4BC8-986C-7A0CBCA1ECBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC3656E-9DC9-4BC8-986C-7A0CBCA1ECBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC3656E-9DC9-4BC8-986C-7A0CBCA1ECBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC3656E-9DC9-4BC8-986C-7A0CBCA1ECBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D1879B-0A79-4BA0-83B9-D4CDFDBBDBEA}
+	EndGlobalSection
+EndGlobal
