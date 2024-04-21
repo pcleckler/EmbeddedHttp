@@ -43,6 +43,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="project.nuspec" />
+    <None Include="README" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

@@ -1,18 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
-  <metadata>
-    <id>CleckTech.EmbeddedHttp</id>
-    <version>1.0.0</version>
-    <title>CleckTech.EmbeddedHttp</title>
-    <authors>Philip Cleckler</authors>
-    <owners>Philip Cleckler</owners>
-    <license type="expression">MIT</license>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>Wrapper for HttpListener and basic Static Web Server</description>
-    <copyright>Copyright © 2024</copyright>
-    <dependencies />
-  </metadata>
-  <files>
-      <file src="bin\Debug\*.dll" target="lib" />
-  </files>
+    <metadata>
+        <id>CleckTech.EmbeddedHttp</id>
+        <version>1.0.0</version>
+        <title>CleckTech.EmbeddedHttp</title>
+        <authors>Philip Cleckler</authors>
+        <owners>Philip Cleckler</owners>
+        <license type="expression">MIT</license>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Wrapper for HttpListener and basic Static Web Server</description>
+        <copyright>Copyright © 2024</copyright>
+        <dependencies />
+    </metadata>
+    <files>
+        <file src="README" />
+        <file src="bin\Debug\*.dll" target="lib" />
+    </files>
 </package>

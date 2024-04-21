@@ -1,0 +1,4 @@
+﻿EmbeddedHttp
+Wrapper for HttpListener and basic Static Web Server
+
+See https://github.com/pcleckler/EmbeddedHttp for further documentation.
